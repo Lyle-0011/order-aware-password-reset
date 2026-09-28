@@ -1,0 +1,11 @@
+{
+  "email": "buyer@example.com",
+  "captchaToken": "replace-with-browser-captcha-token",
+  "widgetRecordId": "replace-with-browser-widget-record-id",
+  "order": {
+    "checkout": "paid",
+    "fulfillment": "processing",
+    "receipt": "issued",
+    "customerUpdates": true
+  }
+}
